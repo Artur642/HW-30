@@ -12,12 +12,12 @@
         background-color: red; transform: translateY(-100);
     }
     50%{
-        background-color: yellow; transform: translateX(0);
+        background-color: yellow; transform: translateX(-100);
     }
     100%{
-        background-color: orange; transform: translateZ(0);
+        background-color: orange; transform: translateZ(-100);
     }
     150%{
-        background-color: blue; transform: translateX(0);
+        background-color: blue; transform: translateX(-100);
     }
 }
